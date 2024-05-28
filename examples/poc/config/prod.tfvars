@@ -1,1 +1,1 @@
-secret = "blue"
+secret = "prod-blue"
